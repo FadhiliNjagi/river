@@ -1,5 +1,5 @@
 # River: Virtual Assistant
-Ever been frustrated with how Cortana is not available in some regions, or lacks some features? River is here to fill the gap. Absolutely free and open-source, and with cool features.
+Ever been frustrated with how Cortana is not available in some regions, or lacks some features? River is here to fill the gap. It has cool features and is absolutely free.
 
 ## What can River do
 River does tasks for you like opening apps, music and reading you the news.
